@@ -1,5 +1,3 @@
-import '../src/style.css';
-
 var t1 = gsap.timeline()
 
 t1.from(".title,.product,.catalogue,.template,.contact,.button",{
